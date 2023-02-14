@@ -4,4 +4,4 @@ I created this programm for sorting images. It is very helpful for the people wh
 
 Before run project we should create two folders.
 The first folder's name "files".
-The second's name "result"
+The second's name "result".
